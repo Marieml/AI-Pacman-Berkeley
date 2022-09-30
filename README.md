@@ -1,4 +1,4 @@
-###Project 1 and 2 from Bakerley's Pacaman Projects (2020).
+### Project 1 and 2 from Bakerley's Pacaman Projects (2020).
 
 All the information about the projects you can find [here](https://inst.eecs.berkeley.edu/~cs188/sp20/projects/).
 Actual modified files:
